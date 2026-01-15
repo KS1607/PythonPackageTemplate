@@ -57,7 +57,6 @@ def greet_user(name):
     str: String greeting including the name of the user
   """
     return f"Hello, {name}! Welcome to Data Science Trends and Applications."
-```
 
 
 
