@@ -45,11 +45,6 @@ def AddNumbers(num1, num2):
   summed_num = num1 + num2
   return summed_num
 
-### 4. Create Your Own Methods
-
-Now it's time to add your own code!
-
-
 
 def greet_user(name):
   """
